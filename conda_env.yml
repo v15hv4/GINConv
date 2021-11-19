@@ -1,4 +1,4 @@
-name: gnn
+name: GINConv
 channels:
   - pytorch
   - conda-forge
@@ -197,4 +197,3 @@ dependencies:
     - tqdm==4.62.3
     - urllib3==1.26.7
     - yacs==0.1.8
-prefix: /home2/vishva.saravanan/miniconda3/envs/gnn
